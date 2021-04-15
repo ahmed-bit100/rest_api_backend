@@ -1,0 +1,12 @@
+.menu {
+    height: 100px;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 100%;
+  }
+  .menu h1 {
+    color: white;
+  }
+  
